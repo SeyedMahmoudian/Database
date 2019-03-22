@@ -1,2 +1,4 @@
 # Database
-SQL Script from Database class 
+This repository contains :
+1. SQL Script.
+2. SQL Diagram
